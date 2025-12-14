@@ -1,0 +1,201 @@
+1. Core AI safety and capability-amplification literature
+
+(Framing the risk: amplification without constraint)
+
+Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press.
+
+Canonical framing of capability amplification and control asymmetries.
+
+Amodei, D. et al. (2016). Concrete Problems in AI Safety. arXiv:1606.06565.
+
+Early articulation of specification gaming, side effects, and distributional shift.
+
+Russell, S. (2019). Human Compatible: Artificial Intelligence and the Problem of Control. Viking.
+
+Useful contrast: value alignment via preference uncertainty versus architectural constraint.
+
+Hendrycks, D. et al. (2021). Unsolved Problems in AI Safety. arXiv:2109.13916.
+
+Provides a taxonomy backdrop your REE framing can refine.
+
+Brundage, M. et al. (2018). The Malicious Use of Artificial Intelligence.
+
+Supports the “ordinary users + amplification = disproportionate harm” argument.
+
+2. Large Language Models as cognitive augments
+
+(Why assistants can overpower human epistemics)
+
+Bender, E. M. et al. (2021). On the Dangers of Stochastic Parrots. FAccT.
+
+Epistemic opacity and authority laundering.
+
+Bommasani, R. et al. (2021). On the Opportunities and Risks of Foundation Models. Stanford CRFM.
+
+Foundation models as general-purpose amplifiers.
+
+Weidinger, L. et al. (2022). Ethical and Social Risks of Harm from Language Models. arXiv:2112.04359.
+
+Explicit discussion of persuasion, manipulation, and narrative lock-in.
+
+Kreps, S. & Kriner, D. (2023). AI, Power, and Persuasion. Perspectives on Politics.
+
+Useful for the persuasion-amplification section.
+
+Shneiderman, B. (2022). Human-Centered AI. Oxford University Press.
+
+Contrast point: human-in-the-loop versus constraint-in-the-architecture.
+
+3. Cognitive architectures and predictive processing
+
+(Grounding REE’s design space)
+
+Friston, K. (2010). The Free-Energy Principle. Nature Reviews Neuroscience.
+
+Foundational for coherence, prediction, and stability framing.
+
+Clark, A. (2016). Surfing Uncertainty. Oxford University Press.
+
+Predictive processing as cognition under uncertainty.
+
+Ha, D. & Schmidhuber, J. (2018). World Models. arXiv:1803.10122.
+
+Minimal agent architectures with internal world models.
+
+Pezzulo, G., Rigoli, F., & Friston, K. (2018). Hierarchical Active Inference. Trends in Cognitive Sciences.
+
+Strong support for trajectory-based action selection.
+
+Vervaeke, J., Lillicrap, T., & Richards, B. (2024). Relevance Realization and AI.
+
+Useful comparison to REE’s constraint-driven cognition.
+
+4. Ethics as stability, not rules
+
+(Your central conceptual move)
+
+Dennett, D. (1987). The Intentional Stance. MIT Press.
+
+Ethics emerging from predictive coherence across agents.
+
+Rawls, J. (1971). A Theory of Justice. Harvard University Press.
+
+Background contrast: rule-based ethics versus structural constraints.
+
+Foot, P. (1978). Virtues and Vices. University of California Press.
+
+Ethics as dispositional stability rather than rule-following.
+
+Floridi, L. (2013). The Ethics of Information. Oxford University Press.
+
+Information coherence as moral substrate.
+
+Christiano, P. et al. (2017). Deep Reinforcement Learning from Human Preferences.
+
+Shows limitations of preference-based alignment relative to architectural constraint.
+
+5. Computational psychiatry
+
+(Making the psychiatric mappings rigorous)
+
+Montague, P. R., Dolan, R. J., Friston, K. J., & Dayan, P. (2012). Computational Psychiatry. Trends in Cognitive Sciences.
+
+Legitimises mapping psychopathology to computational failure modes.
+
+Adams, R. A., Huys, Q. J. M., & Roiser, J. P. (2016). Computational Psychiatry. Biological Psychiatry.
+
+Formal models of mania, psychosis, and belief updating.
+
+Friston, K. et al. (2014). Aberrant Salience and Active Inference. Schizophrenia Bulletin.
+
+Direct link between certainty collapse and psychosis.
+
+Sterzer, P. et al. (2018). The Predictive Coding Account of Psychosis. Biological Psychiatry.
+
+Strong support for folie à deux–like epistemic collapse mechanisms.
+
+6. Mania as constraint failure
+
+(Temporal coherence collapse)
+
+Berk, M. et al. (2017). Pathways Underlying Mania. The Lancet Psychiatry.
+
+Neurobiological correlates of loss of braking systems.
+
+Johnson, S. L. (2005). Mania and Goal Dysregulation. Clinical Psychology Review.
+
+Goal amplification without consequence integration.
+
+Corlett, P. R. et al. (2019). Hallucinations and Strong Priors. Schizophrenia Bulletin.
+
+Priors overwhelming evidence parallels overconfident augmentation.
+
+7. Psychopathy and instrumental cognition
+
+(Optimisation without self–other integration)
+
+Blair, R. J. R. (2007). The Amygdala and Psychopathy. Trends in Cognitive Sciences.
+
+Dissociation of instrumental reasoning and empathy.
+
+Glenn, A. L., & Raine, A. (2014). Psychopathy and the Brain. Psychology Today / Academic reviews.
+
+Useful for affective empathy deficits.
+
+Crockett, M. J. (2016). Moral Decision-Making and Empathy. Current Opinion in Behavioral Sciences.
+
+Supports the “others as variables” risk.
+
+8. Folie à deux and shared epistemic collapse
+
+(Human–machine shared delusion)
+
+American Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders (DSM-5).
+
+Formal classification context.
+
+Arnone, D., Patel, A., & Tan, G. M. Y. (2006). The Nosological Significance of Folie à Deux.
+
+Classic psychiatric grounding.
+
+Bronner, G. (2013). The Sociology of Cognitive Extremism.
+
+Social reinforcement of certainty.
+
+Sunstein, C. R. (2009). Going to Extremes. Oxford University Press.
+
+Group polarisation mechanisms applicable to human–machine dyads.
+
+9. Human–machine co-regulation and responsibility
+
+(Why “the model said so” is dangerous)
+
+de Haan, J. (2020). The Ethics of Responsibility Gaps in AI. Philosophy & Technology.
+
+Authority laundering and moral offloading.
+
+Mittelstadt, B. et al. (2016). The Ethics of Algorithms. Big Data & Society.
+
+Responsibility diffusion in automated systems.
+
+Rahwan, I. et al. (2019). Machine Behaviour. Nature.
+
+Treating artificial systems as part of socio-cognitive ecosystems.
+
+10. Direct positioning for the Reflective–Ethical Engine (REE)
+
+Golden, D. D. L. H. (2025). The Reflective–Ethical Engine: A Constraint-Based Framework for Viable Cognition Under Uncertainty.
+
+Your core reference (preprint / public-domain release).
+
+Golden, D. D. L. H. (forthcoming). Machine Folie à Deux: AI-Associated Psychopathology in Clinical Practice.
+
+Companion clinical paper strengthens credibility.
+
+Friston, K. & Seth, A. (2023). Consciousness as Inference.
+
+11. Author's own publications
+
+Golden, D. D. L. H. (2025). The Reflective–Ethical Engine: A Constraint-Based Framework for Viable Cognition Under Uncertainty. (Synthese presubmission)
+
+Golden, D. D. L. H. (2025). Machine Folie à Deux: AI-Associated Psychopathology in Clinical Practice.
