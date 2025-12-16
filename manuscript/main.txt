@@ -256,7 +256,7 @@ Amodei D, Olah C, Steinhardt J, Christiano P, Schulman J, Mané D (2016) Concret
 
 Arnone D, Patel A, Tan GMY (2006) The nosological significance of folie à deux: a review of the literature. Annals of General Psychiatry 5:11
 
-Author (forthcoming) [details withheld for peer review]
+Author (forthcoming) Title withheld for peer review
 
 Bender EM, Gebru T, McMillan-Major A, Shmitchell S (2021) On the dangers of stochastic parrots: can language models be too big? In: Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT), pp 610–623
 
