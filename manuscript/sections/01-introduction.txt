@@ -1,4 +1,4 @@
-Section 1. Introduction
+1. Introduction
 
 Artificial intelligence is increasingly deployed not as an autonomous agent but as a cognitive augment: a system that extends human capacities for reasoning, planning, communication, and decision-making. From large language model–based assistants to decision-support tools embedded in professional workflows, these systems are reshaping how individuals and institutions think and act. Yet much of the contemporary discourse on artificial intelligence risk remains oriented toward scenarios in which artificial systems themselves become independent sources of agency or control (Bostrom 2014; Russell 2019). While such concerns are not misplaced, they obscure a more immediate and pervasive risk: the destabilisation of human ethical and epistemic judgement through asymmetric cognitive amplification.
 
