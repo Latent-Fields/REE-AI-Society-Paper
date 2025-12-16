@@ -142,14 +142,14 @@ The Reflective–Ethical Engine (REE) is presented as one concrete exemplar with
 
 Within this architecture, ethical stability emerges naturally. Trajectories that rely on exploitation, deception, or premature certainty may offer short-term advantages, but degrade coherence under continued interaction and are therefore disfavoured. REE is not presented here as a fully implemented system, but as an illustrative model demonstrating how ethical and epistemic constraints can be internalised within cognitive architecture itself, rather than imposed from without.
 
-A full technical specification of the Reflective–Ethical Engine—including architectural components, latent structure, and trajectory-selection mechanisms—is provided in a publicly available defensive publication and is not repeated here (Golden 2025).
+A full technical specification of the Reflective–Ethical Engine including architectural components, latent structure, and trajectory-selection mechanisms is provided in a defensive publication and is not repeated here (Author forthcoming).
 
 
 6. Interactional Failure Modes and Psychiatric Parallels
 
 Clinical psychiatry offers a well-developed body of observations concerning the ways in which cognition can become unstable when mechanisms that normally regulate coherence, uncertainty, and social integration are disrupted. In this section, selected psychiatric phenomena are used not as clinical claims or diagnostic analogies, but as structural reference points for understanding how failures of cognitive constraint manifest in human systems (Montague et al. 2012). These cases can be understood as natural experiments in which amplified or decoupled cognitive processes produce predictable patterns of instability (Adams et al. 2016). These parallels are used to characterise interaction-level constraint failures, not to attribute psychopathology to users.
 
-The purpose of the discussion is to show that the risks associated with asymmetric cognitive amplification in human–machine systems do not introduce novel forms of dysfunction, but rather reproduce recognisable modes of cognitive breakdown already documented in human experience. The selection is intentionally limited and illustrative. More detailed clinical, mechanistic, and architectural analyses—including extended treatment of shared delusional dynamics—are is developed elsewhere.
+The purpose of the discussion is to show that the risks associated with asymmetric cognitive amplification in human–machine systems do not introduce novel forms of dysfunction, but rather reproduce recognisable modes of cognitive breakdown already documented in human experience. The selection is intentionally limited and illustrative. More detailed clinical and architectural analyses of such dynamics are beyond the scope of the present paper.
 
 While systematic epidemiological data are not yet available and reports remain heterogeneous, reports from clinical practice and professional use suggest that conversational artificial intelligence systems can participate in, and sometimes intensify, destabilising cognitive dynamics within human–machine interactions. These effects do not depend on malicious intent or pathological users, but arise from patterns of interaction in which amplified coherence, validation, and responsiveness operate without corresponding internal constraints.
 
@@ -254,6 +254,8 @@ Amodei D, Olah C, Steinhardt J, Christiano P, Schulman J, Mané D (2016) Concret
 
 Arnone D, Patel A, Tan GMY (2006) The nosological significance of folie à deux: a review of the literature. Annals of General Psychiatry 5:11
 
+Author (forthcoming) [details withheld for peer review]
+
 Bender EM, Gebru T, McMillan-Major A, Shmitchell S (2021) On the dangers of stochastic parrots: can language models be too big? In: Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT), pp 610–623
 
 Blair RJR (2007) The amygdala and psychopathy. Trends in Cognitive Sciences 11(9):387–392
@@ -273,8 +275,6 @@ Floridi L (2013) The Ethics of Information. Oxford University Press, Oxford
 Friston K (2010) The free-energy principle: a unified brain theory? Nature Reviews Neuroscience 11(2):127–138
 
 Friston KJ, Seth AK (2023) Consciousness as inference: inference as consciousness. Neuroscience of Consciousness 2023(1):niad007
-
-Golden DDLH (2025) The Reflective–Ethical Engine (REE): A Constraint-Based Framework for Viable Cognition Under Uncertainty. Zenodo. https://doi.org/10.5281/zenodo.17859684
 
 Johnson SL (2005) Mania and dysregulation in goal pursuit. Clinical Psychology Review 25(2):241–262
 
