@@ -2,7 +2,7 @@
 
 Dear Editor,
 
-Please consider our manuscript, “Asymmetric Cognitive Amplification: Constraint Failure and Ethical Stability in Human–Machine Cognition,” for publication as an Original Article in AI & Society.
+Please consider our manuscript, “Asymmetric Cognitive Amplification: Constraint Failure and Ethical Stability in Human–Machine Cognition,” for publication as an Original Article in AI & Society. A fully anonymised manuscript and a separate title page have been provided in accordance with the journal’s double-blind review policy.
 
 The manuscript advances a theoretical, interdisciplinary account of artificial intelligence risk that complements autonomy- and alignment-centred framings by analysing contemporary systems as cognitive amplifiers embedded within human decision-making. It argues that a significant, underexamined class of risks arises from asymmetric cognitive amplification: selectively strengthening planning, coherence, and decisiveness without commensurate strengthening of the ethical and epistemic constraints that stabilise cognition over time.
 
