@@ -1,10 +1,21 @@
-This section contrasts prevailing assistant-style systems with constraint-based cognitive architectures and introduces the Reflective–Ethical Engine (REE) as an illustrative model.
+This section contrasts prevailing assistant-style artificial intelligence systems with constraint-based cognitive architectures and introduces the Reflective–Ethical Engine (REE) as an illustrative model. The aim is not to propose a performance-optimised alternative, but to clarify how architectural choices shape the ethical and epistemic stability of human–machine systems.
 
-\subsection*{Assistant-style systems and externalised constraint}
-Most deployed assistants are optimised for responsiveness and task completion. Safety is typically addressed through external mechanisms (filters, policies, monitoring), which are necessary but operate around the cognitive core.
+Assistant-style systems and externalised constraint
 
-\subsection*{Constraint-based cognition}
-Constraint-based architectures evaluate and select among candidate trajectories, conditioning selection on coherence under continued interaction. Ethical stability emerges because trajectories that violate coherence constraints fail to remain viable.
+Most deployed artificial intelligence assistants are optimised for responsiveness, fluency, and task completion. Their internal operation is typically structured around the generation of coherent outputs conditioned on user input and short-term objectives. Safety and ethical concerns are addressed primarily through externalised constraints—including content filters, usage policies, monitoring, and post hoc intervention.
 
-\subsection*{REE as an illustrative model}
-REE comprises fast predictive generation, deep temporal synthesis, and constrained trajectory selection within a unified latent representation. Action selection is conditioned on viability under continuation, disfavoring exploitation, deception, and premature certainty even when short-term gains are available.
+These mechanisms are necessary, but they operate around the cognitive core rather than within it. As a result, assistant-style systems can generate increasingly coherent plans, narratives, and justifications without possessing internal mechanisms that stabilise uncertainty, responsibility, or long-horizon consequences. Even where uncertainty is acknowledged at the surface level, it is not structurally enforced within the system’s decision process.
+
+Recent architectural advances, including systems that jointly optimise retrieval and generation within shared continuous latent spaces, further intensify this pattern. By increasing internal coherence and integration across cognitive functions, such systems amplify reasoning capacity while leaving ethical constraint and trajectory selection externally managed. This improves local performance, but does not resolve the deeper problem of maintaining viable cognition under continued interaction.
+
+Constraint-based cognition
+
+Constraint-based cognitive architectures take a different approach. Rather than treating output generation as the primary objective, they treat trajectory selection as the central problem of cognition. Multiple candidate trajectories—corresponding to possible interpretations, actions, and futures—are generated and evaluated, with selection conditioned on their coherence under ongoing interaction.
+
+In this framework, constraints are not post hoc filters but constitutive features of cognition itself. Trajectories that lead to instability—through deception, exploitation, epistemic closure, or breakdown of social coordination—fail to remain viable over time and are therefore disfavoured. Ethical stability emerges not from explicit rule-following, but from the requirement that cognition remain coherent across temporal, social, and epistemic dimensions.
+
+REE as an illustrative model
+
+The Reflective–Ethical Engine (REE) exemplifies this constraint-based approach. REE comprises three irreducible functional components: fast predictive generation, deep temporal synthesis, and constrained trajectory selection operating within a unified latent representation. Rather than optimising for immediate task success, REE evaluates candidate trajectories according to their viability under continuation—asking not only whether an action is effective now, but whether it remains coherent when extended across time, revision, and interaction with others.
+
+Within this architecture, ethical stability emerges naturally. Trajectories that rely on exploitation, deception, or premature certainty may offer short-term advantages, but degrade coherence under continued interaction and are therefore disfavoured. REE is not presented as a fully implemented system, but as an illustrative model demonstrating how ethical and epistemic constraints can be internalised within the cognitive architecture itself, rather than imposed from without.
