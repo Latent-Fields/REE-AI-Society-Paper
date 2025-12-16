@@ -122,7 +122,7 @@ This reframes the ethics of artificial intelligence from a problem of rule enfor
 
 5. Architecture and Constraint
 
-This section contrasts prevailing assistant-style artificial intelligence systems with constraint-based cognitive architectures and introduces the Reflective–Ethical Engine (REE) as an illustrative model. The aim is not to propose a performance-optimised alternative, but to clarify how architectural choices shape the ethical and epistemic stability of human–machine systems.
+This section contrasts prevailing assistant-style artificial intelligence systems with constraint-based cognitive architectures such as the Reflective–Ethical Engine (REE) as an illustrative model. The aim is not to propose a performance-optimised alternative, but to clarify how architectural choices shape the ethical and epistemic stability of human–machine systems.
 
 5.1 Assistant-style systems and externalised constraint
 
