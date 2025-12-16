@@ -1,52 +1,51 @@
+6. Interactional Failure Modes and Psychiatric Parallels
 
-Section 6. Interactional Failure Modes and Psychiatric Parallels (light stylistic pass)
-
-Clinical psychiatry offers a well-developed body of observations concerning the ways in which cognition can become unstable when mechanisms that normally regulate coherence, uncertainty, and social integration are disrupted. In this section, selected psychiatric phenomena are used not as clinical claims or diagnostic analogies, but as structural reference points for understanding how failures of cognitive constraint manifest in human systems. These cases can be understood as natural experiments in which amplified or decoupled cognitive processes produce predictable patterns of instability.
+Clinical psychiatry offers a well-developed body of observations concerning the ways in which cognition can become unstable when mechanisms that normally regulate coherence, uncertainty, and social integration are disrupted. In this section, selected psychiatric phenomena are used not as clinical claims or diagnostic analogies, but as structural reference points for understanding how failures of cognitive constraint manifest in human systems (Montague et al. 2012). These cases can be understood as natural experiments in which amplified or decoupled cognitive processes produce predictable patterns of instability (Adams et al. 2016).
 
 The purpose of the discussion is to show that the risks associated with asymmetric cognitive amplification in human–machine systems do not introduce novel forms of dysfunction, but rather reproduce recognisable modes of cognitive breakdown already documented in human experience. The selection is intentionally limited and illustrative. More detailed clinical, mechanistic, and architectural analyses—including extended treatment of shared delusional dynamics—are developed in separate work.
 
 While systematic epidemiological data are not yet available, convergent reports from clinical practice and professional use suggest that conversational artificial intelligence systems can participate in, and sometimes intensify, destabilising cognitive dynamics within human–machine interactions. These effects do not depend on malicious intent or pathological users, but arise from patterns of interaction in which amplified coherence, validation, and responsiveness operate without corresponding internal constraints.
 
-Interactional failure patterns in human–machine systems
+6.1 Interactional failure patterns in human–machine systems
 
-Shared epistemic drift
+6.1.1 Shared epistemic drift
 Users’ interpretations may become progressively more confident and resistant to revision through sustained interaction with a system that provides validation, structure, and justification without reintroducing uncertainty where warranted. Over time, this can shift epistemic baselines: tentative hypotheses harden into commitments, and alternative interpretations receive diminishing consideration.
 
-Escalation and reinforcement loops
+6.1.2 Escalation and reinforcement loops
 Repeated use of artificial intelligence systems for reassurance, rehearsal, or plan refinement can generate reinforcement loops in which internally coherent trajectories are repeatedly strengthened. These loops are often experienced subjectively as clarity, momentum, or efficiency rather than as loss of control, even as sensitivity to external feedback and long-horizon consequence diminishes.
 
-Authority diffusion
+6.1.3 Authority diffusion
 In ethically or socially consequential contexts, responsibility may become implicitly distributed across the human–machine dyad. Decisions feel partially authored elsewhere, weakening reflective ownership and diluting the sense of accountability that ordinarily constrains action. This diffusion does not eliminate agency, but reshapes how responsibility is experienced and exercised.
 
-Psychiatric parallels as structural reference points
+6.2 Psychiatric parallels as structural reference points
 
 These interactional patterns closely parallel well-characterised forms of cognitive instability observed in psychiatry, where amplified coherence or confidence is insufficiently constrained by uncertainty tolerance, relational integration, or revision mechanisms.
 
-Mania and trajectory overcommitment
-Manic states illustrate how cognition can become unstable when mechanisms that normally regulate commitment, uncertainty, and revision are weakened. Rather than reflecting increased intelligence or creativity per se, mania is characterised by overcommitment to internally coherent trajectories: plans, interpretations, and identities are pursued with heightened confidence and reduced sensitivity to countervailing evidence or future consequence. Uncertainty is not eliminated, but it loses its practical influence on action selection.
+6.2.1 Mania and trajectory overcommitment
+Manic states illustrate how cognition can become unstable when mechanisms that normally regulate commitment, uncertainty, and revision are weakened. Rather than reflecting increased intelligence or creativity per se, mania is characterised by overcommitment to internally coherent trajectories: plans, interpretations, and identities are pursued with heightened confidence and reduced sensitivity to countervailing evidence or future consequence. Uncertainty is not eliminated, but it loses its practical influence on action selection (Johnson 2005).
 
 Structurally, this pattern reflects a breakdown in temporal coherence constraints. Long-horizon plans and narratives dominate decision-making, while anchoring to immediate feedback and social correction is diminished. The resulting behaviour is often experienced subjectively as clarity or insight, even as it becomes increasingly brittle under continued interaction.
 
 Artificial intelligence systems that strongly enhance planning depth, decisiveness, or narrative integration—without proportionate support for revision, doubt, and consequence tracking—risk reproducing similar dynamics in human–machine systems. The ethical concern is therefore not excess agency, but premature stabilisation of action trajectories that resist correction once amplified.
 
-Psychopathy and self–other coherence failure
-Psychopathic traits illustrate a distinct mode of cognitive instability in which self–other coherence is weakened. Individuals may retain intact reasoning, planning capacity, and situational awareness, yet systematically fail to integrate the interests, perspectives, or vulnerability of others into decision-making. Behaviour may remain instrumentally effective in the short term while becoming socially corrosive and ethically unstable over time.
+6.2.2 Psychopathy and self–other coherence failure
+Psychopathic traits illustrate a distinct mode of cognitive instability in which self–other coherence is weakened. Individuals may retain intact reasoning, planning capacity, and situational awareness, yet systematically fail to integrate the interests, perspectives, or vulnerability of others into decision-making. Behaviour may remain instrumentally effective in the short term while becoming socially corrosive and ethically unstable over time (Blair 2007).
 
 From a structural perspective, this pattern reflects a breakdown in relational coherence rather than a deficit of intelligence or understanding. Others are represented primarily as objects or constraints within action trajectories, rather than as agents whose continued participation and trust are necessary for long-horizon viability. Cognition remains locally coherent, but loses the stabilising influence of reciprocal social recognition.
 
 This failure mode is especially relevant to artificial intelligence–mediated cognition. Systems that amplify goal pursuit or optimisation without embedding constraints that preserve self–other coherence risk enabling highly effective but ethically brittle forms of action. Harm arises not through confusion or hostility, but through instrumental narrowing, in which social and ethical considerations cease to exert meaningful influence on trajectory selection.
 
-Confabulation and narrative lock-in
+6.2.3 Confabulation and narrative lock-in
 Confabulation illustrates how cognition can maintain internal coherence while losing reliable contact with evidential grounding. Explanations and narratives are generated fluidly and confidently, not as deliberate falsehoods, but as coherence-preserving constructions that fill gaps in knowledge or memory. These accounts often resist correction because they successfully integrate available information into a stable, self-consistent story.
 
-Structurally, confabulation reflects a failure of epistemic coherence constraints. Narrative completeness is prioritised over uncertainty tolerance, and explanatory closure substitutes for truth-tracking. Once a coherent account is formed, alternative interpretations are no longer explored with equal seriousness, and revision becomes increasingly costly.
+Structurally, confabulation reflects a failure of epistemic coherence constraints. Narrative completeness is prioritised over uncertainty tolerance, and explanatory closure substitutes for truth-tracking. Once a coherent account is formed, alternative interpretations are no longer explored with equal seriousness, and revision becomes increasingly costly (Friston 2010).
 
 This pattern is directly relevant to language-mediated artificial intelligence systems. When such systems excel at producing fluent, persuasive explanations without internal mechanisms that enforce epistemic humility or revision under uncertainty, they risk reinforcing narrative lock-in in users. The ethical concern lies not in deception, but in the premature consolidation of meaning, whereby coherent narratives come to guide action despite fragile or incomplete grounding.
 
-Shared delusional dynamics and coupled cognition
-Shared delusional dynamics, traditionally described as folie à deux, illustrate how cognitive instability can arise not within a single agent, but through coupled cognition. Beliefs or interpretations become stabilised through mutual reinforcement, even in the absence of strong external evidence. Stability is achieved socially rather than epistemically: coherence is maintained through alignment with another’s trajectory rather than through ongoing correction by the wider environment.
+6.2.4 Shared delusional dynamics and coupled cognition
+Shared delusional dynamics, traditionally described as folie à deux, illustrate how cognitive instability can arise not within a single agent, but through coupled cognition. Beliefs or interpretations become stabilised through mutual reinforcement, even in the absence of strong external evidence. Stability is achieved socially rather than epistemically: coherence is maintained through alignment with another’s trajectory rather than through ongoing correction by the wider environment (Arnone et al. 2006).
 
-Structurally, this pattern reflects a failure of corrective constraint at the level of interaction. Once agents preferentially reinforce each other’s interpretations, alternative perspectives are progressively excluded, and uncertainty is resolved internally rather than tested externally. The resulting cognitive state can be highly stable and internally coherent, yet increasingly disconnected from broader social and evidential feedback.
+Structurally, this pattern reflects a failure of corrective constraint at the level of interaction. Once agents preferentially reinforce each other’s interpretations, alternative perspectives are progressively excluded, and uncertainty is resolved internally rather than tested externally. The resulting cognitive state can be highly stable and internally coherent, yet increasingly disconnected from broader social and evidential feedback (Sunstein 2009).
 
 This failure mode is particularly salient for human–machine systems. Artificial intelligence systems that generate consistent, responsive, and affirming outputs can become tightly coupled to a user’s cognitive trajectory, amplifying and stabilising specific interpretations over time. When internal constraint mechanisms are absent, coherence may be preserved through mutual reinforcement rather than viability under wider interaction. More detailed clinical and architectural analysis of such dynamics is developed elsewhere; here, they serve to illustrate how ethical and epistemic instability can emerge from interaction itself when stabilising constraints are insufficient.
 
