@@ -1,22 +1,20 @@
-
-
-Section 7. Containment Through Constraint (light stylistic pass)
+7. Containment Through Constraint (light stylistic pass)
 
 Many risks associated with artificial intelligence arise not from system autonomy, but from asymmetric cognitive amplification within human–machine systems. When artificial intelligence disproportionately strengthens coherence, speed, or decisiveness without embedding stabilising constraints, it can reshape human judgement in ways that are ethically and epistemically brittle. Meaningful containment therefore requires attention not only to external governance and oversight, but also to the internal cognitive structure of amplification systems themselves.
 
-Limits of control-based safety
+7.1 Limits of control-based safety
 
 Contemporary approaches to artificial intelligence safety rely heavily on control-based mechanisms, including output restrictions, policy enforcement, monitoring, and post hoc intervention. These measures are necessary, particularly for preventing overt misuse or harm. However, they are poorly suited to addressing subtle, cumulative effects such as epistemic override, narrative lock-in, and authority diffusion.
 
 Such effects do not typically manifest as policy violations or discrete failures. Instead, they emerge gradually through ordinary interaction, shaping how users experience uncertainty, responsibility, and choice. Because control-based safeguards operate at the level of outputs rather than internal cognitive dynamics, they struggle to detect or mitigate these forms of harm until downstream consequences become visible.
 
-Constraint as a design principle
+7.2 Constraint as a design principle
 
 An alternative approach treats constraint as a design principle rather than as a corrective layer. In this view, containment is achieved by structuring cognition such that harmful or unstable trajectories fail to remain viable under continued interaction. Capability is therefore coupled to the conditions required for sustainable action, including uncertainty tolerance, revisability, and social coherence.
 
 This approach does not require specifying all undesirable behaviours in advance. Instead, it focuses on ensuring that amplified cognitive processes remain embedded within stabilising structures that favour long-horizon viability over short-term effectiveness. Harmful trajectories are not prohibited outright, but lose influence because they degrade coherence across time, interaction, or responsibility attribution.
 
-Architectural containment versus behavioural compliance
+7.3 Architectural containment versus behavioural compliance
 
 The distinction between architectural containment and behavioural compliance is central to this approach. Behavioural compliance relies on detecting and constraining undesirable outputs produced by a largely unconstrained generative core. Architectural containment, by contrast, embeds ethical and epistemic stability within the selection process itself.
 
