@@ -1,6 +1,4 @@
-
-
-Conclusion
+9. Conclusion
 
 This paper has argued that a central risk of contemporary artificial intelligence lies not primarily in autonomy or intent, but in asymmetric cognitive amplification: the enhancement of human cognitive capacities without a commensurate strengthening of ethical and epistemic constraints. By reframing artificial intelligence risk as a problem of constraint failure, the analysis helps explain why subtle but consequential phenomena—such as epistemic override, narrative lock-in, and agency capture—can arise through ordinary, well-intentioned use.
 
