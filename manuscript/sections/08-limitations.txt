@@ -1,6 +1,4 @@
-
-
-Section 8. Limitations and Future Directions (light stylistic pass)
+8. Limitations and Future Directions
 
 This paper is theoretical and synthetic rather than empirical. It integrates concepts from artificial intelligence architecture, cognitive science, ethics, and clinical observation to identify a class of risks associated with asymmetric cognitive amplification. Many of the phenomena discussed—such as epistemic drift, reinforcement loops, and authority diffusion—are difficult to operationalise experimentally and often unfold over extended periods within relational and social systems.
 
