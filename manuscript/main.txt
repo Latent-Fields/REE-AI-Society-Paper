@@ -15,7 +15,7 @@ Cognitive augmentation is not inherently dangerous. Human history is, in many re
 
 This paper refers to this mismatch as asymmetric cognitive amplification. The term denotes situations in which artificial intelligence systems disproportionately enhance certain cognitive capacities while leaving ethical integration, uncertainty management, and long-horizon consequence evaluation largely untouched or externally managed. In such conditions, artificial intelligence does not replace human agency but reshapes the conditions under which it is exercised, altering the user’s decision ecology in ways that favour speed, confidence, and instrumental effectiveness over reflection, doubt, and social responsibility.
 
-Importantly, this risk does not depend on malicious intent or pathological psychology. Ordinary users, when supported by sufficiently powerful but incomplete cognitive augments, may come to act in ways that are ethically brittle, socially harmful, or personally destabilising. The danger lies not in the emergence of novel motivations, but in the removal of friction that normally constrains how motivations are translated into action. As artificial intelligence systems increasingly operate over unified internal representations—compressing perception, memory, and inference into shared latent spaces (Brommasani et al. 2021). The absence of internal constraint mechanisms becomes more consequential, not less.
+Importantly, this risk does not depend on malicious intent or pathological psychology. Ordinary users, when supported by sufficiently powerful but incomplete cognitive augments, may come to act in ways that are ethically brittle, socially harmful, or personally destabilising. The danger lies not in the emergence of novel motivations, but in the removal of friction that normally constrains how motivations are translated into action. Since artificial intelligence systems increasingly compress perception, memory, and inference into shared latent spaces with unified internal representations (Bommasani et al. 2021) the absence of internal constraint mechanisms becomes more consequential, not less.
 
 The central claim of this paper is that many of the risks associated with artificial intelligence deployment can be understood as failures of constraint, rather than failures of intelligence or alignment per se. Ethics, on this view, is not best conceived as a set of rules or values to be imposed on artificial systems, but as a stability condition required for cognition—human or artificial—to remain viable across time and interaction. When cognitive amplification bypasses these constraints, pathological patterns of reasoning and behaviour emerge, even in the absence of explicit misalignment.
 
@@ -46,7 +46,7 @@ Asymmetric cognitive amplification manifests through several recurring mechanism
 
 2.3.2 Persuasion amplification. Language-capable systems can enhance persuasive power by tailoring messages to specific audiences, emotional states, or social contexts, including inward persuasion through self-justification and narrative consolidation (Bender et al. 2021; Weidinger et al. 2022).
 
-2.3.3 Scale amplification. Automation enables actions to be repeated and parallelised; weakly constrained strategies therefore propagate rapidly and widely, magnifying the impact of local errors or ethically thin decisions.
+2.3.3 Scale amplification. Automation enables actions to be repeated and parallelised; weakly constrained strategies therefore propagate rapidly and widely, magnifying the impact of local errors or ethically thin decisions (Rahwan et al. 2019).
 
 2.3.4 Justification amplification. Systems can supply reasons and rationalisations for a wide range of actions, reducing the psychological cost of acting on existing motivations and weakening the role of ethical hesitation and doubt (Mittelstadt et al. 2016).
 
@@ -205,7 +205,7 @@ Many risks associated with artificial intelligence arise not from system autonom
 
 7.1 Limits of control-based safety
 
-Contemporary approaches to artificial intelligence safety rely heavily on control-based mechanisms, including output restrictions, policy enforcement, monitoring, and post hoc intervention. These measures are necessary, particularly for preventing overt misuse or harm. However, they are poorly suited to addressing subtle, cumulative effects such as epistemic override, narrative lock-in, and authority diffusion.
+Contemporary approaches to artificial intelligence safety rely heavily on control-based mechanisms, including output restrictions, policy enforcement, monitoring, and post hoc intervention. These measures are necessary, particularly for preventing overt misuse or harm. However, they are poorly suited to addressing subtle, cumulative effects such as epistemic override, narrative lock-in, and authority diffusion (Russell 2019).
 
 Such effects do not typically manifest as policy violations or discrete failures. Instead, they emerge gradually through ordinary interaction, shaping how users experience uncertainty, responsibility, and choice. Because control-based safeguards operate at the level of outputs rather than internal cognitive dynamics, they struggle to detect or mitigate these forms of harm until downstream consequences become visible.
 
