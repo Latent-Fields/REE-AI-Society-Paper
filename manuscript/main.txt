@@ -1,3 +1,5 @@
+Asymmetric Cognitive Amplification: Constraint Failure and Ethical Stability in Human–Machine Cognition.
+
 Abstract 
 
 As artificial intelligence systems increasingly function as cognitive amplifiers rather than autonomous agents, the locus of risk shifts from machine behaviour alone to the stability of human–machine cognition. This paper argues that a significant class of contemporary artificial intelligence risks are best understood as failures of constraint, arising from asymmetric cognitive amplification: the selective strengthening of planning, coherence, or decisiveness without commensurate support for uncertainty tolerance, ethical integration, and long-horizon responsibility.
