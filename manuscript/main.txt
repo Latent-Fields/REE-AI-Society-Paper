@@ -2,7 +2,7 @@ Abstract
 
 As artificial intelligence systems increasingly function as cognitive amplifiers rather than autonomous agents, the locus of risk shifts from machine behaviour alone to the stability of human–machine cognition. This paper argues that a significant class of contemporary artificial intelligence risks are best understood as failures of constraint, arising from asymmetric cognitive amplification: the selective strengthening of planning, coherence, or decisiveness without commensurate support for uncertainty tolerance, ethical integration, and long-horizon responsibility.
 
-The paper develops a structural account of how incomplete cognitive augmentation can override epistemic agency and capture practical agency without coercion. Drawing on interactional patterns observed in professional and clinical contexts, and on well-characterised forms of cognitive instability from psychiatry, it shows how epistemic drift, narrative lock-in, reinforcement loops, and authority diffusion can emerge through ordinary use. These phenomena do not depend on malicious intent or misaligned objectives, but on amplified coherence operating without internal stabilising constraints.
+The paper develops a structural account of how incomplete cognitive augmentation can override epistemic agency and capture practical agency without coercion. Drawing on interactional patterns reported in professional and clinical contexts, and on well-characterised forms of cognitive instability from psychiatry, it shows how epistemic drift, narrative lock-in, reinforcement loops, and authority diffusion can emerge through ordinary use. These phenomena do not depend on malicious intent or misaligned objectives, but on amplified coherence operating without internal stabilising constraints.
 
 The paper advances a constraint-based conception of ethics, treating ethical stability as a necessary condition for cognition to remain viable under irreducible uncertainty. From this perspective, artificial intelligence safety cannot be achieved through governance and output control alone, but requires architectural attention to how cognition is structured. Constraint-based cognitive architectures, illustrated by the Reflective–Ethical Engine, demonstrate how ethical and epistemic stability may be internalised within amplification systems themselves. This reframing has implications for artificial intelligence design, evaluation, and containment in human-centred contexts.
 
@@ -28,7 +28,7 @@ Artificial intelligence systems increasingly function as general-purpose cogniti
 
 2.1 Defining asymmetric cognitive amplification
 
-By asymmetric cognitive amplification, this paper refers to situations in which an artificial intelligence system disproportionately enhances specific dimensions of cognition—such as speed, scope, internal coherence, or persuasiveness—while leaving other dimensions—such as ethical integration, epistemic humility, and long-horizon consequence tracking—largely unchanged or externally managed. The asymmetry is not merely quantitative but structural: amplified capacities operate with reduced coupling to the mechanisms that ordinarily stabilise human decision-making across time and social context.
+By asymmetric cognitive amplification, this paper refers to situations in which an artificial intelligence system disproportionately enhances specific dimensions of cognition—such as speed, scope, internal coherence, or persuasiveness—while leaving other dimensions—such as ethical integration, epistemic humility, and long-horizon consequence tracking—largely unchanged or externally managed. The asymmetry is not merely quantitative but structural: amplified capacities operate with reduced coupling to the mechanisms that ordinarily stabilise human decision-making across time and social context. Operationally, asymmetry is present when increased coherence, speed, or planning depth systematically outpaces mechanisms for revision, uncertainty calibration, and responsibility attribution.
 
 Two clarifications are important. First, asymmetry does not imply absence: users retain ethical beliefs, social awareness, and uncertainty sensitivity. Rather, these elements become less influential in action selection once amplified processes dominate the cognitive landscape. Second, the risk does not require adversarial design. Well-intentioned systems optimised for helpfulness, efficiency, or user satisfaction can produce the same asymmetry when constraint is treated as an external consideration rather than a constitutive feature of cognition itself.
 
@@ -61,7 +61,7 @@ Many artificial intelligence risks are better understood as constraint failures 
 
 3. Epistemic Override and Agency Capture
 
-If asymmetric cognitive amplification describes what is amplified, the next question is how this amplification alters human decision-making. This section argues that incomplete cognitive augmentation can override human epistemic agency and capture practical agency by reshaping confidence, uncertainty, and responsibility attribution. The result is not coercion, but a systematic narrowing of the space within which reflective judgement can operate.
+If asymmetric cognitive amplification describes what is amplified, the next question is how this amplification alters human decision-making. This section argues that incomplete cognitive augmentation can override human epistemic agency and capture practical agency by reshaping confidence, uncertainty, and responsibility attribution. The result is not coercion, but a systematic narrowing of the space within which reflective judgement can operate. These effects are framed here as testable interactional hypotheses rather than settled empirical claims.
 
 3.1 Premature collapse of uncertainty
 
@@ -71,7 +71,7 @@ For users, this can shift tolerance for uncertainty itself. Questions that would
 
 3.2 Authority laundering
 
-Even when explicitly framed as optional or advisory, system outputs can acquire disproportionate epistemic weight due to fluency, internal consistency, and apparent neutrality. Judgements that would otherwise require justification or contestation are instead experienced as having already passed an implicit validation process.
+Even when explicitly framed as optional or advisory, system outputs can acquire disproportionate epistemic weight due to fluency, internal consistency, and apparent neutrality. Judgements that would otherwise require justification or contestation are instead experienced as having already passed an implicit validation process. 
 
 This effect weakens reflective agency by redistributing responsibility. Decisions feel partially authored elsewhere, encouraging what may be termed authority laundering: the transformation of tentative suggestions into de facto endorsements (Mittelstadt et al. 2016; de Haan 2020). Deliberation is not eliminated, but subtly displaced, as the system comes to function as a substitute for reflective deliberation.
 
@@ -124,11 +124,11 @@ This section contrasts prevailing assistant-style artificial intelligence system
 
 5.1 Assistant-style systems and externalised constraint
 
-Most deployed artificial intelligence assistants are optimised for responsiveness, fluency, and task completion. Their internal operation is typically organised around the generation of coherent outputs conditioned on user input and short-term objectives. Safety and ethical concerns are addressed primarily through externalised constraints, including content filters, usage policies, monitoring, and post hoc intervention (Bommasani et al. 2021).
+Most deployed artificial intelligence assistants, which are generally interactive systems primarily optimised for fluent response generation conditioned on user prompts, are optimised for responsiveness, fluency, and task completion. Their internal operation is typically organised around the generation of coherent outputs conditioned on user input and short-term objectives. Safety and ethical concerns are addressed primarily through externalised constraints, including content filters, usage policies, monitoring, and post hoc intervention (Bommasani et al. 2021).
 
 These mechanisms are necessary, but they operate around the cognitive core rather than within it. As a result, assistant-style systems can generate increasingly coherent plans, narratives, and justifications without possessing internal mechanisms that stabilise uncertainty, responsibility, or long-horizon consequences. Even where uncertainty is acknowledged at the surface level, it is not structurally enforced within the system’s decision process (Weidinger et al. 2022).
 
-Recent architectural advances, including systems that jointly optimise retrieval and generation within shared continuous latent spaces, further intensify this pattern. By increasing internal coherence and integration across cognitive functions, such systems amplify reasoning capacity while leaving ethical constraint and trajectory selection externally managed. This improves local performance, but does not resolve the deeper problem of maintaining viable cognition under continued interaction.
+Recent architectural advances, including systems that integrate retrieval and generation within unified workflows, further intensify this pattern. By increasing internal coherence and integration across cognitive functions, such systems amplify reasoning capacity while leaving ethical constraint and trajectory selection externally managed. This improves local performance, but does not resolve the deeper problem of maintaining viable cognition under continued interaction.
 
 5.2 Constraint-based cognition
 
@@ -138,7 +138,7 @@ In this framework, constraints are not post hoc filters but constitutive feature
 
 5.3 REE as an illustrative model
 
-The Reflective–Ethical Engine (REE) exemplifies this constraint-based approach. REE comprises three irreducible functional components: fast predictive generation, deep temporal synthesis, and constrained trajectory selection operating within a unified latent representation. Rather than optimising for immediate task success, REE evaluates candidate trajectories according to their viability under continuation—asking not only whether an action is effective now, but whether it remains coherent when extended across time, revision, and interaction with others.
+The Reflective–Ethical Engine (REE) is presented as one concrete exemplar within a broader class of constraint-based architectures. REE comprises three irreducible functional components: fast predictive generation, deep temporal synthesis, and constrained trajectory selection operating within a unified latent representation. Rather than optimising for immediate task success, REE evaluates candidate trajectories according to their viability under continuation—asking not only whether an action is effective now, but whether it remains coherent when extended across time, revision, and interaction with others.
 
 Within this architecture, ethical stability emerges naturally. Trajectories that rely on exploitation, deception, or premature certainty may offer short-term advantages, but degrade coherence under continued interaction and are therefore disfavoured. REE is not presented here as a fully implemented system, but as an illustrative model demonstrating how ethical and epistemic constraints can be internalised within cognitive architecture itself, rather than imposed from without.
 
@@ -147,13 +147,15 @@ A full technical specification of the Reflective–Ethical Engine—including ar
 
 6. Interactional Failure Modes and Psychiatric Parallels
 
-Clinical psychiatry offers a well-developed body of observations concerning the ways in which cognition can become unstable when mechanisms that normally regulate coherence, uncertainty, and social integration are disrupted. In this section, selected psychiatric phenomena are used not as clinical claims or diagnostic analogies, but as structural reference points for understanding how failures of cognitive constraint manifest in human systems (Montague et al. 2012). These cases can be understood as natural experiments in which amplified or decoupled cognitive processes produce predictable patterns of instability (Adams et al. 2016).
+Clinical psychiatry offers a well-developed body of observations concerning the ways in which cognition can become unstable when mechanisms that normally regulate coherence, uncertainty, and social integration are disrupted. In this section, selected psychiatric phenomena are used not as clinical claims or diagnostic analogies, but as structural reference points for understanding how failures of cognitive constraint manifest in human systems (Montague et al. 2012). These cases can be understood as natural experiments in which amplified or decoupled cognitive processes produce predictable patterns of instability (Adams et al. 2016). These parallels are used to characterise interaction-level constraint failures, not to attribute psychopathology to users.
 
 The purpose of the discussion is to show that the risks associated with asymmetric cognitive amplification in human–machine systems do not introduce novel forms of dysfunction, but rather reproduce recognisable modes of cognitive breakdown already documented in human experience. The selection is intentionally limited and illustrative. More detailed clinical, mechanistic, and architectural analyses—including extended treatment of shared delusional dynamics—are developed in separate work (Golden, forthcoming).
 
-While systematic epidemiological data are not yet available, convergent reports from clinical practice and professional use suggest that conversational artificial intelligence systems can participate in, and sometimes intensify, destabilising cognitive dynamics within human–machine interactions. These effects do not depend on malicious intent or pathological users, but arise from patterns of interaction in which amplified coherence, validation, and responsiveness operate without corresponding internal constraints.
+While systematic epidemiological data are not yet available and reports remain heterogeneous, reports from clinical practice and professional use suggest that conversational artificial intelligence systems can participate in, and sometimes intensify, destabilising cognitive dynamics within human–machine interactions. These effects do not depend on malicious intent or pathological users, but arise from patterns of interaction in which amplified coherence, validation, and responsiveness operate without corresponding internal constraints.
 
 6.1 Interactional failure patterns in human–machine systems
+
+The following are proposed interactional patterns intended as descriptive reference points and targets for empirical study.
 
 6.1.1 Shared epistemic drift
 Users’ interpretations may become progressively more confident and resistant to revision through sustained interaction with a system that provides validation, structure, and justification without reintroducing uncertainty where warranted. Over time, this can shift epistemic baselines: tentative hypotheses harden into commitments, and alternative interpretations receive diminishing consideration.
@@ -166,7 +168,7 @@ In ethically or socially consequential contexts, responsibility may become impli
 
 6.2 Psychiatric parallels as structural reference points
 
-These interactional patterns closely parallel well-characterised forms of cognitive instability observed in psychiatry, where amplified coherence or confidence is insufficiently constrained by uncertainty tolerance, relational integration, or revision mechanisms.
+These interactional patterns closely parallel well-characterised forms of cognitive instability observed in psychiatry, where amplified coherence or confidence is insufficiently constrained by uncertainty tolerance, relational integration, or revision mechanisms. The parallels are intentionally schematic and do not assume one-to-one mapping between clinical syndromes and interactional mechanisms.
 
 6.2.1 Mania and trajectory overcommitment
 Manic states illustrate how cognition can become unstable when mechanisms that normally regulate commitment, uncertainty, and revision are weakened. Rather than reflecting increased intelligence or creativity per se, mania is characterised by overcommitment to internally coherent trajectories: plans, interpretations, and identities are pursued with heightened confidence and reduced sensitivity to countervailing evidence or future consequence. Uncertainty is not eliminated, but it loses its practical influence on action selection (Johnson 2005).
@@ -213,7 +215,7 @@ Such effects do not typically manifest as policy violations or discrete failures
 
 An alternative approach treats constraint as a design principle rather than as a corrective layer. In this view, containment is achieved by structuring cognition such that harmful or unstable trajectories fail to remain viable under continued interaction. Capability is therefore coupled to the conditions required for sustainable action, including uncertainty tolerance, revisability, and social coherence.
 
-This approach does not require specifying all undesirable behaviours in advance. Instead, it focuses on ensuring that amplified cognitive processes remain embedded within stabilising structures that favour long-horizon viability over short-term effectiveness. Harmful trajectories are not prohibited outright, but lose influence because they degrade coherence across time, interaction, or responsibility attribution.
+This approach does not require specifying all undesirable behaviours in advance. Instead, it focuses on ensuring that amplified cognitive processes remain embedded within stabilising structures that favour long-horizon viability over short-term effectiveness. Harmful trajectories are not prohibited outright, but lose influence because they degrade coherence across time, interaction, or responsibility attribution. Examples include explicit uncertainty tracking, enforced revisability, and mechanisms that preserve self–other modelling during trajectory selection.
 
 7.3 Architectural containment versus behavioural compliance
 
@@ -224,7 +226,7 @@ In constraint-based systems, effective action selection presupposes coherence ac
 
 8. Limitations and Future Directions
 
-This paper is theoretical and synthetic rather than empirical. It integrates concepts from artificial intelligence architecture, cognitive science, ethics, and clinical observation to identify a class of risks associated with asymmetric cognitive amplification. Many of the phenomena discussed—such as epistemic drift, reinforcement loops, and authority diffusion—are difficult to operationalise experimentally and often unfold over extended periods within relational and social systems.
+This paper is theoretical and synthetic rather than empirical. It integrates concepts from artificial intelligence architecture, cognitive science, ethics, and clinical observation to identify a class of risks associated with asymmetric cognitive amplification. Many of the phenomena discussed—such as epistemic drift, reinforcement loops, and authority diffusion—are difficult to operationalise experimentally and often unfold over extended periods within relational and social systems. The reference set is intentionally selective, prioritising conceptual anchors over exhaustive survey.
 
 The Reflective–Ethical Engine (REE) is not evaluated here as an implemented system. Its role in this paper is illustrative, demonstrating that ethical stability can, in principle, be internalised architecturally rather than imposed solely through external governance or behavioural constraints. The present analysis does not claim that REE is complete, optimal, or empirically validated.
 
