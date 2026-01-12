@@ -1,6 +1,8 @@
 # Why Ethics Can’t Be Compiled Away  
 *— On Moral Residue in Alignment Systems*
 
+Disclosure: This essay was written by me with substantial assistance from a large language model, used as a thinking and editing aid.
+
 This post is a diagnostic argument about alignment failures, not a proposal for a solution.
 
 ## Introduction
