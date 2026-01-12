@@ -1,6 +1,8 @@
 # Why Ethics Can’t Be Compiled Away  
 *— On Moral Residue in Alignment Systems*
 
+This post is a diagnostic argument about alignment failures, not a proposal for a solution.
+
 ## Introduction
 
 In alignment work, it is common to treat ethics as something that can be settled in advance: encoded into objectives, constraints, constitutions, oversight procedures, or proofs of safety. Once these are in place, ethical concern is expected to recede into the background, leaving the system free to act. This way of thinking treats ethics as a design-time problem that can be compiled into the system and largely forgotten at runtime. Yet many alignment proposals continue to feel unsatisfying even when they function as intended. Responsibility seems to reappear downstream, uneasily, in human operators, reviewers, or affected parties. This suggests that something essential is being displaced rather than resolved.
