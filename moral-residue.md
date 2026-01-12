@@ -11,6 +11,8 @@ Any system that acts under uncertainty while affecting others cannot fully settl
 
 If this remainder is unavoidable, then the core question for alignment is not how to eliminate it, but where it is allowed to exist. Architectures that lack an explicit place for ongoing ethical responsibility tend to push it outward: into human overseers, review committees, post-hoc justification, or the affected world itself. This displacement can give the appearance of ethical cleanliness while quietly concentrating moral load elsewhere. An aligned system, in this light, is not one that has resolved ethics in advance, but one that remains structurally capable of carrying ethical uncertainty at runtime rather than exporting it invisibly.
 
+If alignment work continues to treat ethics as something that can be settled in advance, responsibility will continue to reappear downstream in humans and institutions. This post aims to explain why that pattern persists even when alignment strategies succeed on their own terms.
+
 ---
 
 ## Catastrophic Risk Minimisation
