@@ -3,7 +3,7 @@
 This repository contains the manuscript and supporting materials for:
 
 **“Asymmetric Cognitive Amplification and Ethical Instability in Artificial Intelligence”**  
-Target journal: *AI & Society* (Springer)
+Target journal: *AI & Society* (Springer) which has been rejected based on AI being used to help support writing the manuscript.
 
 It is part of the broader **Reflective–Ethical Engine (REE)** research programme.
 
